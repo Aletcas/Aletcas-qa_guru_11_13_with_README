@@ -1,4 +1,3 @@
-# Aletcas-qa_guru_11_13_with_README
 <a id="anchor"></a>
 
 # Проект по автоматизации тестирования сайта NABIX
